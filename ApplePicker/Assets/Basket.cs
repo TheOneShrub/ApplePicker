@@ -36,7 +36,7 @@ public class Basket : MonoBehaviour
             
            
         }
-        scoreCounter.score += 100;
+        //scoreCounter.score += 100;
     }
 
     
